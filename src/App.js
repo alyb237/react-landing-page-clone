@@ -344,14 +344,10 @@ function App() {
             <div css={signUpStyles}>No signup required</div>
           </div>
         </div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
-        <div></div>
+        <br />
+        <br />
+        <br />
+        <br />
         <footer>footer</footer>
       </main>
     </div>
